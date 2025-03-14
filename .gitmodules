@@ -1,0 +1,12 @@
+[submodule "poky"]
+	path = poky
+	url = https://git.yoctoproject.org/poky
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = http://git.openembedded.org/meta-openembedded
+[submodule "meta-ptx"]
+	path = meta-ptx
+	url = https://github.com/pengutronix/meta-ptx
+[submodule "meta-barebox-community"]
+	path = meta-barebox-community
+	url = https://github.com/smalinux/meta-barebox-community
